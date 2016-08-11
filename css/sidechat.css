@@ -20,6 +20,10 @@ body {
 
 background-color: #009688;
 background-image: repeating-linear-gradient(-45deg, transparent, transparent 2px, rgba(0,137,123,.4) 1px, rgba(0,137,123,.4) 3px);
+background: -webkit-radial-gradient(#4DB6AC, #009688); /* Safari 5.1 to 6.0 */
+  background: -o-radial-gradient(#4DB6AC, #009688); /* For Opera 11.6 to 12.0 */
+  background: -moz-radial-gradient(#4DB6AC, #009688); /* For Firefox 3.6 to 15 */
+  background: radial-gradient(#4DB6AC, #009688); /* Standard syntax */
 
 }
 
