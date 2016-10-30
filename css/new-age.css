@@ -227,6 +227,7 @@ section h2 {
 section.download {
   padding: 150px 0;
   position: relative;
+  background: #039BE5;
 }
 section.download h2 {
   margin-top: 0;
@@ -302,7 +303,7 @@ section.cta {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/bg-cta.jpg');
+  background-image: url('../img/coffeePhone.jpg');
   padding: 250px 0;
 }
 section.cta .cta-content {

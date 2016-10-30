@@ -10,7 +10,7 @@
     <meta name="author" content="">
 
     <title>side.chat Promo</title>
-    <link rel="icon" href="img/favicon.png" type="image/x-icon" />
+
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -74,7 +74,7 @@
                     <div class="header-content">
                         <div class="header-content-inner">
                             <h1>Take part in open, balanced dialogue with side.chat!</h1>
-                            <a href="http://side.chat" class="btn btn-outline btn-xl page-scroll">Start Now!</a>
+                            <a href="#download" class="btn btn-outline btn-xl page-scroll">Start Now!</a>
                         </div>
                     </div>
                 </div>
@@ -84,7 +84,7 @@
                             <div class="device">
                                 <div class="screen">
                                     <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
-                                    <img src="img/topScreen.png" class="img-responsive" alt="">
+                                    <img src="img/demo-screen-1.jpg" class="img-responsive" alt="">
                                 </div>
                                 <div class="button">
                                     <!-- You can hook the "home button" to some JavaScript events or just remove it -->
@@ -98,15 +98,15 @@
     </header>
 
     <section id="about" class="download bg-primary text-center">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div id="paragraph" class="col-md-8 col-md-offset-2">
                     <h2 class="section-heading">What is the problem with social media and the news?</h2>
                     <p>People all over the world are on social media and they love sharing their opinions! Political discussions are especially huge online but many people don't search out for different opinions. 
 					People end up sharing the same stuff to the same people over and over again, perpetuating the lie that their opinion is the only one based in fact!
 					</p>
-					<h2 class="section-heading">How will side.chat change this?</h2>
-                    <p>side.chat aims to end this "echo chamber" by allowing users to point out bias in news as part of a dynamic online social and mobile environment. side.chat has jettisoned the traditional upvote/downvote system in favour of a political left/right rating system. If a news article posted to side.chat has been found to be biased in a particular direction, it will be given a rating to reflect this. Users can see if the articles they would most likely read are mostly skewed in one direction or if they are consuming a healthy balance of news. Users can also comment on side.chat's news articles and these comments are voted as either left or right by other users.
+					<h2 class="section-heading">How will sidechat change this?</h2>
+                    <p>Sidechat aims to end this "echo chamber" by allowing users to point out bias in news as part of a dynamic online social and mobile environment. Sidechat has jettisoned the traditional upvote/downvote system in favour of a political left/right rating system. If a news article posted to sidechat has been found to be biased in a particular direction, it will be given a rating to reflect this. Users can see if the articles they would most likely read are mostly skewed in one direction or if they are consuming a healthy balance of news. Users can also comment on sidechat's news articles and these comments are voted as either left or right by other users.
 					</p>
                 </div>
             </div>
@@ -130,7 +130,7 @@
                             <div class="device">
                                 <div class="screen">
                                     <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
-                                    <img src="img/topScreen.png" class="img-responsive" alt=""> </div>
+                                    <img src="img/SCscreenshot.jpg" class="img-responsive" alt=""> </div>
                                 <div class="button">
                                     <!-- You can hook the "home button" to some JavaScript events or just remove it -->
                                 </div>
@@ -180,7 +180,7 @@
     <section class="cta">
         <div class="cta-content">
             <div class="container">
-                <h2>Take to side.chat</h2>
+                <h2>Don't take a side.<br>Take to side.chat.</h2>
                 <a href="http://side.chat" class="btn btn-outline btn-xl page-scroll" target="_blank">Let's Get Started!</a>
             </div>
         </div>
@@ -206,8 +206,18 @@
 
     <footer>
         <div class="container">
-            <p>Created as a student project for University of Queensland course DECO3500.</p>
-
+            <p>&copy; 2016 Start Bootstrap. All Rights Reserved.</p>
+            <ul class="list-inline">
+                <li>
+                    <a href="#">Privacy</a>
+                </li>
+                <li>
+                    <a href="#">Terms</a>
+                </li>
+                <li>
+                    <a href="#">FAQ</a>
+                </li>
+            </ul>
         </div>
     </footer>
 
