@@ -454,3 +454,12 @@ body {
   width: 80%;
   float: none
 }
+
+
+row .copy-section{
+  padding-top: 50px;
+}
+
+.col-md-8 p {
+  font-size: 20px;
+}

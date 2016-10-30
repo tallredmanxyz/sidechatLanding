@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d70059f0-103e-42bb-9560-ec891b5b77e6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/new-age.css" afterPath="$PROJECT_DIR$/css/new-age.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -26,20 +24,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1368">
-              <caret line="76" column="3" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+            <state relative-caret-position="108">
+              <caret line="92" column="17" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="favicon.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/favicon.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -57,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new-age.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="new-age.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/new-age.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="287" column="49" selection-start-line="287" selection-start-column="49" selection-end-line="287" selection-end-column="49" />
+            <state relative-caret-position="408">
+              <caret line="440" column="16" selection-start-line="440" selection-start-column="16" selection-end-line="440" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -85,8 +76,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/new-age.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/new-age.css" />
       </list>
     </option>
   </component>
@@ -244,12 +235,12 @@
       <option name="presentableId" value="Default" />
       <updated>1477615758016</updated>
       <workItem from="1477615759146" duration="3077000" />
-      <workItem from="1477822479400" duration="938000" />
+      <workItem from="1477822479400" duration="2764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4015000" />
+    <option name="totallyTimeSpent" value="5841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="52" width="933" height="1028" extended-state="4" />
@@ -308,30 +299,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/new-age.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="287" column="49" selection-start-line="287" selection-start-column="49" selection-end-line="287" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/demo-screen-1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/google-play-badge.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/topScreen.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/coffeePhone.jpg">
@@ -357,6 +330,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/topScreen.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/demo-screen-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/img/favicon.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -364,8 +347,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="76" column="3" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+        <state relative-caret-position="108">
+          <caret line="92" column="17" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/new-age.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="440" column="16" selection-start-line="440" selection-start-column="16" selection-end-line="440" selection-end-column="16" />
           <folding />
         </state>
       </provider>
